@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "DigitalGuiterHub_Lib") (type "KiCad") (uri "${KIPRJMOD}/Libs/Symbols/DigitalGuiterHub_Lib.kicad_sym") (options "") (descr ""))
+)
